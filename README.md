@@ -4,4 +4,4 @@ This repository consists of codes for the assignments from the Fall 2024 Class o
 
 Homework 1 : Submitted on 09/24/2025
 
-AI Assist Session Link : https://chatgpt.com/share/68d449e9-c938-8006-ae7e-ccba3abcbbae
+AI Assist Session Link for Homework 1 : https://chatgpt.com/share/68d449e9-c938-8006-ae7e-ccba3abcbbae
